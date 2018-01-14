@@ -1,0 +1,85 @@
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Bot Application1.dll.config
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Bot Application1.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Bot Application1.pdb
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Autofac.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Chronic.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Microsoft.Bot.Builder.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Microsoft.Bot.Connector.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Microsoft.Rest.ClientRuntime.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Newtonsoft.Json.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\System.Net.Http.Formatting.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\System.Web.Http.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\System.Web.Http.WebHost.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Autofac.xml
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Microsoft.Bot.Builder.xml
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Microsoft.Bot.Connector.xml
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\Newtonsoft.Json.xml
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\System.Net.Http.Formatting.xml
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\System.Web.Http.xml
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\System.Web.Http.WebHost.xml
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\obj\Debug\SimpleTaskAutomationBot.csprojResolveAssemblyReference.cache
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\obj\Debug\SimpleTaskAutomationBot.csproj.CoreCompileInputs.cache
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\obj\Debug\Bot Application1.dll
+D:\microsoftbot\BotBuilder-Samples\CSharp\capability-SimpleTaskAutomation\obj\Debug\Bot Application1.pdb
+D:\MSGit\capability-SimpleTaskAutomation\obj\Debug\SimpleTaskAutomationBot.csprojResolveAssemblyReference.cache
+D:\MSGit\capability-SimpleTaskAutomation\obj\Debug\SimpleTaskAutomationBot.csproj.CoreCompileInputs.cache
+D:\MSGit\capability-SimpleTaskAutomation\obj\Debug\Bot Application1.dll
+D:\MSGit\capability-SimpleTaskAutomation\obj\Debug\Bot Application1.pdb
+D:\MSGit\capability-SimpleTaskAutomation\bin\Bot Application1.dll.config
+D:\MSGit\capability-SimpleTaskAutomation\bin\Bot Application1.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\Bot Application1.pdb
+D:\MSGit\capability-SimpleTaskAutomation\bin\Autofac.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\Chronic.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\Microsoft.Bot.Builder.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\Microsoft.Bot.Connector.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\Microsoft.Rest.ClientRuntime.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\Newtonsoft.Json.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\System.Net.Http.Formatting.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\System.Web.Http.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\System.Web.Http.WebHost.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\Autofac.xml
+D:\MSGit\capability-SimpleTaskAutomation\bin\Microsoft.Bot.Builder.xml
+D:\MSGit\capability-SimpleTaskAutomation\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\MSGit\capability-SimpleTaskAutomation\bin\Microsoft.Bot.Connector.xml
+D:\MSGit\capability-SimpleTaskAutomation\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\MSGit\capability-SimpleTaskAutomation\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\MSGit\capability-SimpleTaskAutomation\bin\Newtonsoft.Json.xml
+D:\MSGit\capability-SimpleTaskAutomation\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\MSGit\capability-SimpleTaskAutomation\bin\System.Net.Http.Formatting.xml
+D:\MSGit\capability-SimpleTaskAutomation\bin\System.Web.Http.xml
+D:\MSGit\capability-SimpleTaskAutomation\bin\System.Web.Http.WebHost.xml
+D:\MSGit\capability-SimpleTaskAutomation\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\RestSharp.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\System.ValueTuple.dll
+D:\MSGit\capability-SimpleTaskAutomation\bin\System.ValueTuple.xml
