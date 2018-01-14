@@ -83,3 +83,58 @@ D:\MSGit\capability-SimpleTaskAutomation\bin\zh-hans\Microsoft.Bot.Builder.resou
 D:\MSGit\capability-SimpleTaskAutomation\bin\RestSharp.dll
 D:\MSGit\capability-SimpleTaskAutomation\bin\System.ValueTuple.dll
 D:\MSGit\capability-SimpleTaskAutomation\bin\System.ValueTuple.xml
+D:\MSGit\FormBot\bin\Bot Application1.dll.config
+D:\MSGit\FormBot\bin\Bot Application1.dll
+D:\MSGit\FormBot\bin\Bot Application1.pdb
+D:\MSGit\FormBot\bin\Autofac.dll
+D:\MSGit\FormBot\bin\Chronic.dll
+D:\MSGit\FormBot\bin\Microsoft.Bot.Builder.Autofac.dll
+D:\MSGit\FormBot\bin\Microsoft.Bot.Builder.dll
+D:\MSGit\FormBot\bin\Microsoft.Bot.Connector.dll
+D:\MSGit\FormBot\bin\Microsoft.IdentityModel.Protocol.Extensions.dll
+D:\MSGit\FormBot\bin\Microsoft.Rest.ClientRuntime.dll
+D:\MSGit\FormBot\bin\Microsoft.WindowsAzure.Configuration.dll
+D:\MSGit\FormBot\bin\Newtonsoft.Json.dll
+D:\MSGit\FormBot\bin\RestSharp.dll
+D:\MSGit\FormBot\bin\System.IdentityModel.Tokens.Jwt.dll
+D:\MSGit\FormBot\bin\System.Net.Http.Formatting.dll
+D:\MSGit\FormBot\bin\System.ValueTuple.dll
+D:\MSGit\FormBot\bin\System.Web.Http.dll
+D:\MSGit\FormBot\bin\System.Web.Http.WebHost.dll
+D:\MSGit\FormBot\bin\Autofac.xml
+D:\MSGit\FormBot\bin\Microsoft.Bot.Builder.xml
+D:\MSGit\FormBot\bin\Microsoft.Bot.Builder.Autofac.xml
+D:\MSGit\FormBot\bin\Microsoft.Bot.Connector.xml
+D:\MSGit\FormBot\bin\Microsoft.IdentityModel.Protocol.Extensions.xml
+D:\MSGit\FormBot\bin\Microsoft.WindowsAzure.Configuration.xml
+D:\MSGit\FormBot\bin\Newtonsoft.Json.xml
+D:\MSGit\FormBot\bin\System.IdentityModel.Tokens.Jwt.xml
+D:\MSGit\FormBot\bin\System.Net.Http.Formatting.xml
+D:\MSGit\FormBot\bin\System.ValueTuple.xml
+D:\MSGit\FormBot\bin\System.Web.Http.xml
+D:\MSGit\FormBot\bin\System.Web.Http.WebHost.xml
+D:\MSGit\FormBot\bin\ar\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\FormBot\bin\cs\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\FormBot\bin\de-dE\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\FormBot\bin\en\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\FormBot\bin\es\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\FormBot\bin\fa\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\FormBot\bin\fr\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\FormBot\bin\ja\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\FormBot\bin\ru\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\FormBot\bin\zh-hans\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\FormBot\obj\Debug\SimpleTaskAutomationBot.csprojResolveAssemblyReference.cache
+D:\MSGit\FormBot\obj\Debug\SimpleTaskAutomationBot.csproj.CoreCompileInputs.cache
+D:\MSGit\FormBot\obj\Debug\Bot Application1.dll
+D:\MSGit\FormBot\obj\Debug\Bot Application1.pdb
+D:\MSGit\FormBot\bin\Microsoft.IdentityModel.Logging.dll
+D:\MSGit\FormBot\bin\Microsoft.IdentityModel.Protocols.dll
+D:\MSGit\FormBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\MSGit\FormBot\bin\Microsoft.IdentityModel.Tokens.dll
+D:\MSGit\FormBot\bin\Microsoft.IdentityModel.Logging.xml
+D:\MSGit\FormBot\bin\Microsoft.IdentityModel.Protocols.xml
+D:\MSGit\FormBot\bin\Microsoft.IdentityModel.Protocols.OpenIdConnect.xml
+D:\MSGit\FormBot\bin\Microsoft.IdentityModel.Tokens.xml
+D:\MSGit\FormBot\bin\it\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\FormBot\bin\nl\Microsoft.Bot.Builder.resources.dll
+D:\MSGit\FormBot\bin\pt-BR\Microsoft.Bot.Builder.resources.dll
